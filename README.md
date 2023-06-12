@@ -1,4 +1,4 @@
-## Hi, I'm Tufan Akçay!
+## Hi, I'm Tufan Akçay
 
 Welcome to my page!
   <div id="header" align="left">
